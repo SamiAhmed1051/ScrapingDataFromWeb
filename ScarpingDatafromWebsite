@@ -14,7 +14,7 @@
    "id": "27e83112",
    "metadata": {},
    "outputs": [],
-   "source": [
+   "source": [  
     "from bs4 import BeautifulSoup\n",
     "import requests"
    ]
